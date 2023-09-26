@@ -89,7 +89,7 @@ img:hover{
     margin-left: 80px;
     margin-bottom: 80px;
     cursor: pointer;
-    transition: opacity 0.3s; *//* Transition douce pour l'effet de transparence */
+    transition: opacity 0.3s; /* Transition douce pour l'effet de transparence */
 } 
 
 .container{
